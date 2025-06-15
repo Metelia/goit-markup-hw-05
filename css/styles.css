@@ -609,6 +609,11 @@ letter-spacing: 0.02em;
 
 
 
+.form{
+  display: flex; 
+  gap :24px;
+}
+
 
 .footer-text-dop{
   margin-bottom: 16px;
@@ -617,11 +622,6 @@ letter-spacing: 0.02em;
   line-height: 1.5; 
   letter-spacing: 0.02em; 
   color: #FFFFFF;
-}
-
-.form{
-  display: flex; 
-  gap :24px;
 }
 
 .input_e-mail{
@@ -646,21 +646,21 @@ input::placeholder {
 }
 
 .form_btn{
-  min-width: 165px; 
-  height: 40px; 
   display: flex;
-  justify-content: center; 
-  align-items: center; 
+  align-items: center;
+  justify-content: center;
+  min-width: 165px;
+  height: 40px;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
-  line-height: 1.5 ;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  cursor: pointer ;
+  cursor: pointer;
   background-color: #4D5AE5;
-  border: none; 
-  border-radius: 4px; 
+  border: none;
+  border-radius: 4px;
 }
 
 
