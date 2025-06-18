@@ -516,6 +516,8 @@ letter-spacing: 0.02em;
   font-weight: 500;
   color: #ffffff;
   margin-bottom: 16px;
+  line-height: 1.5; 
+  letter-spacing: 0.02em; 
 }
 
 .footer .social-list {
