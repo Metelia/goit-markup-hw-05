@@ -531,6 +531,8 @@ letter-spacing: 0.02em;
   font-weight: 500;
   margin-bottom: 16px;
   color: #ffffff;
+  line-height: 1.5; 
+  letter-spacing: 0.02em; 
 }
 
 .footer-form {
